@@ -1,0 +1,57 @@
+.jumbotron h1
+{
+font-family: 'Overlock', cursive;
+color : rgb(148, 16,66);
+}
+
+.well
+{
+text-align: center;
+}
+
+i
+{
+background-color: rgb(148, 16,66);
+border-radius: 50%;
+text-align: center;
+padding:20px;
+}
+
+p
+{
+font-size: 20px ;
+Line-Height: 2.2;
+font-family: 'Overlock', cursive;
+}
+     
+.textepresentation
+{
+background-color : rgb(148, 16,66); 
+}
+     
+#presentation
+{
+background-color : white;  
+}
+
+td
+{font-size: 16px;}
+     
+th
+{
+font-size : 19px;}
+
+.annees
+{color : rgb(97, 67, 78);   
+font-weight : bold;
+font-size: 19px;}
+     
+.travail
+{font-weight : bold;
+font-size: 19px;}
+
+ li
+{list-style-type : none;
+font-size : 20px;
+color : rgb(97, 67, 78);
+}
